@@ -1,0 +1,114 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(0, 37, 48);
+}
+
+header {
+    justify-content: space-between;
+    padding: ;
+    margin-bottom: 20px;
+}
+
+.button {
+    background-color: #36bbce;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 15px;
+    font-size: 24px;
+    border-radius: 10px;
+}
+
+nav {
+    border-top: 5px solid white;
+    border-bottom: 5px solid white;
+    padding: 25px 100px 25px 95px;
+    justify-content: space-between;
+}
+
+.nav-link {
+    font-size: 24px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 36px;
+    margin-top: ;
+    margin-bottom: ;
+}
+
+p {
+    font-size: 24px;
+}
+
+.info {
+    flex-wrap: wrap;
+    width: 1100px;
+    margin: 0px;
+}
+
+article {
+    background-color: white;
+    padding:50px;
+    width: 390px;
+    height: 420px;
+    margin:30px;
+}
+
+.article-but1 {
+    text-decoration: none;
+    background-color: rgb(117, 76, 0);
+    color: rgb(255, 255, 255);
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 75px 10px 75px;
+    margin-left:50px ;
+}
+
+.article-but2 {
+    text-decoration: none;
+    background-color: rgb(0, 117, 20);
+    color: rgb(255, 255, 255);
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 75px 10px 75px;
+    margin-left:50px ;
+}
+
+.article-but3 {
+    text-decoration: none;
+    background-color: rgb(201, 0, 0);
+    color: rgb(255, 255, 255);
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 75px 10px 75px;
+    margin-left:50px ;
+}
+
+.article-but4 {
+    text-decoration: none;
+    background-color: rgb(117, 0, 92);
+    color: rgb(255, 255, 255);
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 75px 10px 75px;
+    margin-left:50px ;
+}
+
+footer {
+    background-color: rgb(0, 27, 102);
+    padding: 10px 75px 10px 75px;
+    margin:-10px;
+    color: white;
+}
+
+footer a {
+    margin-right:0px ;
+}
+
+footer p {
+    font-size: 35px;
+}
+
